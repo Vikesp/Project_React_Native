@@ -1,0 +1,12 @@
+{
+  "name": "CnpmProject",
+  "displayName": "CnpmProject",
+  "expo": {
+    "name": "CnpmProject",
+    "slug": "CnpmProject",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
